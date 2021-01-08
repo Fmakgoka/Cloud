@@ -22,6 +22,8 @@ Amazon Relational Database Service (RDS)
 > Has Resizable Capacity
 > Manages Database Administration Tasks
 
+![](image/wordpress-arch-v2.f065678e8a2d45a770dc192747d49f939ccd5ac9.png)
+
 
 Schematic Diagram
 https://aws.amazon.com/getting-started/hands-on/build-wordpress-website/
